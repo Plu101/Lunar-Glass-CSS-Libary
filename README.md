@@ -1,5 +1,10 @@
 # LUNAR GLASS CSS (`lunag.css`)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CSS](https://img.shields.io/badge/CSS3-blue)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+**[Live Preview / Showcase](https://plu101.github.io/Lunar-Glass-CSS-Libary/)**
+
 A darkish, moody modern glassmorphism design libary. This library provides a toned-down, simple, and reusable foundation of layered backdrop-filter glass, ambient scene radials, and SVG-noise grain textures.
 
 LUNAR GLASS CSS originated from "Study Hub", an older studying platform project. While the platform itself was deprecated, the UI components and design system were extracted and curated into this standalone CSS library. Keep in mind that this is not a fully built-up framework; I just curated UI elements from an older project to make them reusable. These elements are set with their own style values, so feel free to customize `lunag.css`.
